@@ -10,6 +10,7 @@ Kernel*](https://www.kernel.org/doc/Documentation/SubmittingPatches)에서 영�
 * [English](https://github.com/agis-/git-style-guide)
 * [Chinese (Simplified)](https://github.com/aseaday/git-style-guide)
 * [Chinese (Traditional)](https://github.com/JuanitoFatas/git-style-guide)
+* [Japanese](https://github.com/objectx/git-style-guide)
 * [Portuguese](https://github.com/guylhermetabosa/git-style-guide)
 
 함께 하고 싶으시면, 자유롭게 하세요. Fork 하시고 pull request 보내주세요. 
