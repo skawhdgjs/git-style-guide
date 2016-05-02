@@ -10,8 +10,12 @@ Kernel*](https://www.kernel.org/doc/Documentation/SubmittingPatches)에서 영�
 * [English](https://github.com/agis-/git-style-guide)
 * [Chinese (Simplified)](https://github.com/aseaday/git-style-guide)
 * [Chinese (Traditional)](https://github.com/JuanitoFatas/git-style-guide)
+* [French](https://github.com/pierreroth64/git-style-guide)
+* [Greek](https://github.com/grigoria/git-style-guide)
 * [Japanese](https://github.com/objectx/git-style-guide)
 * [Portuguese](https://github.com/guylhermetabosa/git-style-guide)
+* [Thai](https://github.com/zondezatera/git-style-guide)
+* [Ukrainian](https://github.com/denysdovhan/git-style-guide)
 
 함께 하고 싶으시면, 자유롭게 하세요. Fork 하시고 pull request 보내주세요. 
 
@@ -96,7 +100,7 @@ Kernel*](https://www.kernel.org/doc/Documentation/SubmittingPatches)에서 영�
 
 * 요약하는 문장(예를 들어, 메시지의 첫출)은 *간단명료한* *설명*이 되어야 합니다. 
   *50글자*를 넘지 않는 것이 바람직합니다. 대문자로 시작하는 명령형 현재시제를 사용해야 합니다. 
-  커밋의 실질 적인 *제목*이 되기 때문에 기간(시간을 나타내는 말)으로 끝나는 것은 바람직하지 않습니다. 
+  커밋의 실질적인 *제목*이 되기 때문에 마침표(온점)로 끝나는 것은 바람직하지 않습니다.
 
   ```shell
   # good - 50글자를 넘지않고 대문자로 시작하는 명령형 현재시제 문장 
@@ -107,7 +111,7 @@ Kernel*](https://www.kernel.org/doc/Documentation/SubmittingPatches)에서 영�
   ```
 
 * 이후에 자세한 설명을 위해 이어지는 문장 앞에 빈 줄이 와야 합니다. 
-  *72글자*정도에서 줄바꿈이 되는 *왜* 변화가 필요했는지, *어떻게* 변경했는지에 대한 설명이 필요하고 
+  *72글자* 정도에서 줄바꿈이 돼야하며 *왜* 변화가 필요했는지, *어떻게* 변경했는지에 대한 설명이 필요하고
   혹시나 있을지 모르는 *side-effects*에 대해서 기술해야 합니다. 
 
   또한 관련된 리소스을 바로 접근할 수 있는 경로를 제공하는 것이 좋습니다. 
